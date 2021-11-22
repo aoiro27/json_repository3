@@ -1,16 +1,16 @@
 {
-	"hoge": {
-		"test": {
-			"userId": 1,
-			"id": 1,
-			"title": "delectus aut autem",
-			"completed": false
-		},
-		"weather": {
-			"jis": 3333,
-			"name": "USJ",
-			"lat": 135.123,
-			"linkFlag": true
-		}
-	}
+    "hoge": {
+        "test": {
+            "userId": 1,
+            "id": 1,
+            "title": "delectus aut autem",
+            "completed": false
+        },
+        "weather": {
+            "jis": 3333,
+            "name": "USJ",
+            "lat": 135.123,
+            "linkFlag": true
+        }
+    }
 }
